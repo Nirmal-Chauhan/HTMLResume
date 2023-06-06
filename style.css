@@ -6,16 +6,26 @@ body {
   width: 60%;
   background-color: burlywood;
   display: flex;
+  margin: 20px 20px 20px;
 }
 
 #left_div {
   width: 40%;
   background-color: aqua;
   padding: 20px;
+  border: 1px solid blue;
 }
 
 #right_div {
   width: 60%;
   background-color: azure;
   padding: 20px;
+  border: 1px solid blue;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid blue;
 }
