@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#container {
+  width: 60%;
+  background-color: burlywood;
+  display: flex;
+}
+
+#left_div {
+  width: 40%;
+  background-color: aqua;
+  padding: 20px;
+}
+
+#right_div {
+  width: 60%;
+  background-color: azure;
+  padding: 20px;
+}
